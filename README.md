@@ -1,2 +1,2 @@
-# sandbox-apollo-demo-2
+# sandbox-apollo-demo
 Created with CodeSandbox
